@@ -1,5 +1,5 @@
 export function Navbar(){
-    var categories=["All","Electronics","Fashion","Footwear","Clothes","Jewelary"];
+    var categories=["All","Electronics","Fashion","Footwear","Clothes","Jewelary","Cars"];
     return(
         <div className="container-fluid">
             <h2>Nav</h2>
