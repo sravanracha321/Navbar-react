@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/github.io/Navbar-react/static/css/main.fc97205f.css",
-    "main.js": "/github.io/Navbar-react/static/js/main.746f72db.js",
+    "main.js": "/github.io/Navbar-react/static/js/main.8861abf6.js",
     "static/js/787.c54b57c8.chunk.js": "/github.io/Navbar-react/static/js/787.c54b57c8.chunk.js",
     "static/media/bootstrap-icons.woff?": "/github.io/Navbar-react/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/github.io/Navbar-react/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "index.html": "/github.io/Navbar-react/index.html",
     "main.fc97205f.css.map": "/github.io/Navbar-react/static/css/main.fc97205f.css.map",
-    "main.746f72db.js.map": "/github.io/Navbar-react/static/js/main.746f72db.js.map",
+    "main.8861abf6.js.map": "/github.io/Navbar-react/static/js/main.8861abf6.js.map",
     "787.c54b57c8.chunk.js.map": "/github.io/Navbar-react/static/js/787.c54b57c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc97205f.css",
-    "static/js/main.746f72db.js"
+    "static/js/main.8861abf6.js"
   ]
 }
