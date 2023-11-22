@@ -1,5 +1,5 @@
 
- function App(){
+ function App3(){
   var categories=["All","Electronics","Fashion","Footwear"];
   return(
       <div className="container-fluid">
