@@ -7,13 +7,14 @@ import App from './App3';
 import reportWebVitals from './reportWebVitals';
 
 import {Navbar} from './Navbar.jsx'
-import App3 from './App3';
+import Button7 from './button';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App3/>
+    <Button7/>
   </React.StrictMode>
 );
 
