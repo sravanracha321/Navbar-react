@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/App3-react/static/css/main.16d632d0.css",
-    "main.js": "/github.io/App3-react/static/js/main.880f5b13.js",
-    "static/js/787.c54b57c8.chunk.js": "/github.io/App3-react/static/js/787.c54b57c8.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/github.io/App3-react/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
-    "static/media/bootstrap-icons.woff2?": "/github.io/App3-react/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "index.html": "/github.io/App3-react/index.html",
-    "main.16d632d0.css.map": "/github.io/App3-react/static/css/main.16d632d0.css.map",
-    "main.880f5b13.js.map": "/github.io/App3-react/static/js/main.880f5b13.js.map",
-    "787.c54b57c8.chunk.js.map": "/github.io/App3-react/static/js/787.c54b57c8.chunk.js.map"
+    "main.css": "/button-react/static/css/main.869c6bef.css",
+    "main.js": "/button-react/static/js/main.b6d7def4.js",
+    "static/js/787.c54b57c8.chunk.js": "/button-react/static/js/787.c54b57c8.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/button-react/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/button-react/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/button-react/index.html",
+    "main.869c6bef.css.map": "/button-react/static/css/main.869c6bef.css.map",
+    "main.b6d7def4.js.map": "/button-react/static/js/main.b6d7def4.js.map",
+    "787.c54b57c8.chunk.js.map": "/button-react/static/js/787.c54b57c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16d632d0.css",
-    "static/js/main.880f5b13.js"
+    "static/css/main.869c6bef.css",
+    "static/js/main.b6d7def4.js"
   ]
 }
